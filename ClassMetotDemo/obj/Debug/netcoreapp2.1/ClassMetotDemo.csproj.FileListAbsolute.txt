@@ -1,0 +1,13 @@
+C:\Users\ayfer\source\repos\CampRepos\ClassMetotDemo\bin\Debug\netcoreapp2.1\ClassMetotDemo.deps.json
+C:\Users\ayfer\source\repos\CampRepos\ClassMetotDemo\bin\Debug\netcoreapp2.1\ClassMetotDemo.runtimeconfig.json
+C:\Users\ayfer\source\repos\CampRepos\ClassMetotDemo\bin\Debug\netcoreapp2.1\ClassMetotDemo.runtimeconfig.dev.json
+C:\Users\ayfer\source\repos\CampRepos\ClassMetotDemo\bin\Debug\netcoreapp2.1\ClassMetotDemo.dll
+C:\Users\ayfer\source\repos\CampRepos\ClassMetotDemo\bin\Debug\netcoreapp2.1\ClassMetotDemo.pdb
+C:\Users\ayfer\source\repos\CampRepos\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.csproj.AssemblyReference.cache
+C:\Users\ayfer\source\repos\CampRepos\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayfer\source\repos\CampRepos\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.AssemblyInfoInputs.cache
+C:\Users\ayfer\source\repos\CampRepos\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.AssemblyInfo.cs
+C:\Users\ayfer\source\repos\CampRepos\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\ayfer\source\repos\CampRepos\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.dll
+C:\Users\ayfer\source\repos\CampRepos\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.pdb
+C:\Users\ayfer\source\repos\CampRepos\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ayfer\source\repos\CampRepos\classIntro\bin\Debug\netcoreapp2.1\classIntro.deps.json
+C:\Users\ayfer\source\repos\CampRepos\classIntro\bin\Debug\netcoreapp2.1\classIntro.runtimeconfig.json
+C:\Users\ayfer\source\repos\CampRepos\classIntro\bin\Debug\netcoreapp2.1\classIntro.runtimeconfig.dev.json
+C:\Users\ayfer\source\repos\CampRepos\classIntro\bin\Debug\netcoreapp2.1\classIntro.dll
+C:\Users\ayfer\source\repos\CampRepos\classIntro\bin\Debug\netcoreapp2.1\classIntro.pdb
+C:\Users\ayfer\source\repos\CampRepos\classIntro\obj\Debug\netcoreapp2.1\classIntro.csproj.AssemblyReference.cache
+C:\Users\ayfer\source\repos\CampRepos\classIntro\obj\Debug\netcoreapp2.1\classIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayfer\source\repos\CampRepos\classIntro\obj\Debug\netcoreapp2.1\classIntro.AssemblyInfoInputs.cache
+C:\Users\ayfer\source\repos\CampRepos\classIntro\obj\Debug\netcoreapp2.1\classIntro.AssemblyInfo.cs
+C:\Users\ayfer\source\repos\CampRepos\classIntro\obj\Debug\netcoreapp2.1\classIntro.csproj.CoreCompileInputs.cache
+C:\Users\ayfer\source\repos\CampRepos\classIntro\obj\Debug\netcoreapp2.1\classIntro.dll
+C:\Users\ayfer\source\repos\CampRepos\classIntro\obj\Debug\netcoreapp2.1\classIntro.pdb
+C:\Users\ayfer\source\repos\CampRepos\classIntro\obj\Debug\netcoreapp2.1\classIntro.genruntimeconfig.cache

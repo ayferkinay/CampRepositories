@@ -1,0 +1,13 @@
+C:\Users\ayfer\source\repos\CampRepos\OOP1\bin\Debug\netcoreapp2.1\OOP1.deps.json
+C:\Users\ayfer\source\repos\CampRepos\OOP1\bin\Debug\netcoreapp2.1\OOP1.runtimeconfig.json
+C:\Users\ayfer\source\repos\CampRepos\OOP1\bin\Debug\netcoreapp2.1\OOP1.runtimeconfig.dev.json
+C:\Users\ayfer\source\repos\CampRepos\OOP1\bin\Debug\netcoreapp2.1\OOP1.dll
+C:\Users\ayfer\source\repos\CampRepos\OOP1\bin\Debug\netcoreapp2.1\OOP1.pdb
+C:\Users\ayfer\source\repos\CampRepos\OOP1\obj\Debug\netcoreapp2.1\OOP1.csproj.AssemblyReference.cache
+C:\Users\ayfer\source\repos\CampRepos\OOP1\obj\Debug\netcoreapp2.1\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayfer\source\repos\CampRepos\OOP1\obj\Debug\netcoreapp2.1\OOP1.AssemblyInfoInputs.cache
+C:\Users\ayfer\source\repos\CampRepos\OOP1\obj\Debug\netcoreapp2.1\OOP1.AssemblyInfo.cs
+C:\Users\ayfer\source\repos\CampRepos\OOP1\obj\Debug\netcoreapp2.1\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\ayfer\source\repos\CampRepos\OOP1\obj\Debug\netcoreapp2.1\OOP1.dll
+C:\Users\ayfer\source\repos\CampRepos\OOP1\obj\Debug\netcoreapp2.1\OOP1.pdb
+C:\Users\ayfer\source\repos\CampRepos\OOP1\obj\Debug\netcoreapp2.1\OOP1.genruntimeconfig.cache

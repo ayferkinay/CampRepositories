@@ -1,0 +1,5 @@
+C:\Users\ayfer\source\repos\CampRepos\metotlar\obj\Debug\netcoreapp2.1\metotlar.csproj.AssemblyReference.cache
+C:\Users\ayfer\source\repos\CampRepos\metotlar\obj\Debug\netcoreapp2.1\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayfer\source\repos\CampRepos\metotlar\obj\Debug\netcoreapp2.1\metotlar.AssemblyInfoInputs.cache
+C:\Users\ayfer\source\repos\CampRepos\metotlar\obj\Debug\netcoreapp2.1\metotlar.AssemblyInfo.cs
+C:\Users\ayfer\source\repos\CampRepos\metotlar\obj\Debug\netcoreapp2.1\metotlar.csproj.CoreCompileInputs.cache
