@@ -4,10 +4,7 @@ This project contains assignments that I progress by updating them frequently du
 
 #Kodluyoruz İlk Repo
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, ve derslerde oluşturduğum ödevleri barındırıyor.
-
-![github](figures/github.png)
-
+This repo [Kodluyoruz](https://www.kodluyoruz.org) is the first repo we created in Front-End Tutorial. It contains a README file and assignments I created in classes.
 ## Installation
 
 
@@ -17,7 +14,6 @@ git clone https://github.com/ayferkinay/CampRepositories.git
 
 
 ## Contributing
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 
 ## License
