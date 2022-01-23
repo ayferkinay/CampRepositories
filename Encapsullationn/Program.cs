@@ -13,6 +13,8 @@ namespace Encapsullationn
             Book book = new Book(10, "aa", "bb");
 
             Console.WriteLine(book);
+
+            Console.ReadLine();
         }
     }
 }

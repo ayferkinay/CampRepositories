@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Encapsullationn
 {
-    internal class Book
+    public class Book
     {
 
         private int pageSize;

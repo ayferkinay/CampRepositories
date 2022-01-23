@@ -5,7 +5,52 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Diğer Dosyalar",
       "ColorIndex": -1
+    },
+    "c921c2e4-3a4c-4595-b49a-88f3788d813f": {
+      "ProjectGuid": "c921c2e4-3a4c-4595-b49a-88f3788d813f",
+      "DisplayName": "classIntro",
+      "ColorIndex": 0
+    },
+    "5e84ef88-bc13-4ade-9d0f-4075d32e20bb": {
+      "ProjectGuid": "5e84ef88-bc13-4ade-9d0f-4075d32e20bb",
+      "DisplayName": "ClassMetotDemo",
+      "ColorIndex": 1
+    },
+    "2f2b8b6e-d110-4784-837a-ba50479feefa": {
+      "ProjectGuid": "2f2b8b6e-d110-4784-837a-ba50479feefa",
+      "DisplayName": "Collections",
+      "ColorIndex": 2
+    },
+    "f792d29e-465d-4627-82a3-f9a2f0e242df": {
+      "ProjectGuid": "f792d29e-465d-4627-82a3-f9a2f0e242df",
+      "DisplayName": "DegerVeReferansTipler",
+      "ColorIndex": 3
+    },
+    "6c1e38e9-c22b-44b8-bee2-920fb04b2ef2": {
+      "ProjectGuid": "6c1e38e9-c22b-44b8-bee2-920fb04b2ef2",
+      "DisplayName": "GenericInfo",
+      "ColorIndex": 4
+    },
+    "aa8a4bec-2953-429b-a664-45a340c88f63": {
+      "ProjectGuid": "aa8a4bec-2953-429b-a664-45a340c88f63",
+      "DisplayName": "OOP1",
+      "ColorIndex": 5
+    },
+    "1c77c45a-55d1-4844-aa37-5d12ec45b27d": {
+      "ProjectGuid": "1c77c45a-55d1-4844-aa37-5d12ec45b27d",
+      "DisplayName": "metotlar",
+      "ColorIndex": 6
+    },
+    "74192782-d129-4eaa-acb5-57bf6f5f4d4b": {
+      "ProjectGuid": "74192782-d129-4eaa-acb5-57bf6f5f4d4b",
+      "DisplayName": "Encapsullations",
+      "ColorIndex": 7
+    },
+    "068f1a0e-1031-48c2-abac-71e3f4c7fe1c": {
+      "ProjectGuid": "068f1a0e-1031-48c2-abac-71e3f4c7fe1c",
+      "DisplayName": "Encapsullationn",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 9
 }
