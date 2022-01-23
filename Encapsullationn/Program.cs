@@ -10,6 +10,9 @@ namespace Encapsullationn
     {
         static void Main(string[] args)
         {
+            Book book = new Book(10, "aa", "bb");
+
+            Console.WriteLine(book);
         }
     }
 }
