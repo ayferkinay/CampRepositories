@@ -50,7 +50,32 @@
       "ProjectGuid": "068f1a0e-1031-48c2-abac-71e3f4c7fe1c",
       "DisplayName": "Encapsullationn",
       "ColorIndex": 8
+    },
+    "46b55b7c-e091-481b-9387-e6a46c4743f3": {
+      "ProjectGuid": "46b55b7c-e091-481b-9387-e6a46c4743f3",
+      "DisplayName": "OOP2",
+      "ColorIndex": 9
+    },
+    "6ff19fdf-1d3e-4826-aab3-af3d7eb00298": {
+      "ProjectGuid": "6ff19fdf-1d3e-4826-aab3-af3d7eb00298",
+      "DisplayName": "OOP_2",
+      "ColorIndex": 10
+    },
+    "7572ca2c-a1b0-4e6c-ad05-5d46eba4a1ae": {
+      "ProjectGuid": "7572ca2c-a1b0-4e6c-ad05-5d46eba4a1ae",
+      "DisplayName": "Deneme",
+      "ColorIndex": 11
+    },
+    "c4726242-9d3e-414c-9d16-784a88c0c2c3": {
+      "ProjectGuid": "c4726242-9d3e-414c-9d16-784a88c0c2c3",
+      "DisplayName": "deneme2",
+      "ColorIndex": 12
+    },
+    "69afc936-0675-4232-9f71-1e466145933a": {
+      "ProjectGuid": "69afc936-0675-4232-9f71-1e466145933a",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 14
 }
