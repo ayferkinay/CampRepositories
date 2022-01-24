@@ -53,7 +53,7 @@
     },
     "46b55b7c-e091-481b-9387-e6a46c4743f3": {
       "ProjectGuid": "46b55b7c-e091-481b-9387-e6a46c4743f3",
-      "DisplayName": "OOP2",
+      "DisplayName": "OOP2_Inheritance",
       "ColorIndex": 9
     },
     "6ff19fdf-1d3e-4826-aab3-af3d7eb00298": {
@@ -75,7 +75,22 @@
       "ProjectGuid": "69afc936-0675-4232-9f71-1e466145933a",
       "DisplayName": "ConsoleApp1",
       "ColorIndex": 13
+    },
+    "7970a157-3ed8-4869-87b3-0565728fa5ae": {
+      "ProjectGuid": "7970a157-3ed8-4869-87b3-0565728fa5ae",
+      "DisplayName": "s",
+      "ColorIndex": 14
+    },
+    "933c346a-c7ee-49d0-8a17-a4e2151f4267": {
+      "ProjectGuid": "933c346a-c7ee-49d0-8a17-a4e2151f4267",
+      "DisplayName": "OOP3",
+      "ColorIndex": 15
+    },
+    "cb7cff32-a49c-478a-a560-9367cbb40533": {
+      "ProjectGuid": "cb7cff32-a49c-478a-a560-9367cbb40533",
+      "DisplayName": "OOP3_Interface_Logger",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 1
 }
