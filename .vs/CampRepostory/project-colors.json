@@ -90,7 +90,42 @@
       "ProjectGuid": "cb7cff32-a49c-478a-a560-9367cbb40533",
       "DisplayName": "OOP3_Interface_Logger",
       "ColorIndex": 0
+    },
+    "775a8a05-5b97-460b-9d5b-d170ffa8ee18": {
+      "ProjectGuid": "775a8a05-5b97-460b-9d5b-d170ffa8ee18",
+      "DisplayName": "GameSimulasyon",
+      "ColorIndex": 1
+    },
+    "5dd4decd-caba-4626-be79-2f2e407c72da": {
+      "ProjectGuid": "5dd4decd-caba-4626-be79-2f2e407c72da",
+      "DisplayName": "CafeSimulasyon",
+      "ColorIndex": 2
+    },
+    "d24adb54-1e6a-4f34-8cce-3d5f8f78bd54": {
+      "ProjectGuid": "d24adb54-1e6a-4f34-8cce-3d5f8f78bd54",
+      "DisplayName": "CafeSimulasyon",
+      "ColorIndex": 3
+    },
+    "82e972b9-ce7f-4a16-9e20-7a157ad217c4": {
+      "ProjectGuid": "82e972b9-ce7f-4a16-9e20-7a157ad217c4",
+      "DisplayName": "PersonelProject",
+      "ColorIndex": 4
+    },
+    "e209186f-2981-4a90-ab05-74dfb654bdd7": {
+      "ProjectGuid": "e209186f-2981-4a90-ab05-74dfb654bdd7",
+      "DisplayName": "Abstract",
+      "ColorIndex": 5
+    },
+    "37dfd0ba-2fdd-4c68-949a-8440ecf8748f": {
+      "ProjectGuid": "37dfd0ba-2fdd-4c68-949a-8440ecf8748f",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 6
+    },
+    "51a59dc8-8fae-4bc0-b76d-b635340a8fed": {
+      "ProjectGuid": "51a59dc8-8fae-4bc0-b76d-b635340a8fed",
+      "DisplayName": "VirtualAndOverride",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 8
 }
