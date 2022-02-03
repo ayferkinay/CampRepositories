@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualAndOverride", "Virtu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{57AD9F11-8F75-4FC4-8B27-AC85EACDABC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq_List_Generic", "Linq_List_Generic\Linq_List_Generic.csproj", "{6FCAAC77-FFFE-4429-8DEF-8F9FA583D9C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLinqExperiance", "MyLinqExperiance\MyLinqExperiance.csproj", "{0F67573D-2745-4B68-9F9A-A4C2C5CE8965}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{57AD9F11-8F75-4FC4-8B27-AC85EACDABC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57AD9F11-8F75-4FC4-8B27-AC85EACDABC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57AD9F11-8F75-4FC4-8B27-AC85EACDABC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FCAAC77-FFFE-4429-8DEF-8F9FA583D9C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FCAAC77-FFFE-4429-8DEF-8F9FA583D9C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FCAAC77-FFFE-4429-8DEF-8F9FA583D9C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FCAAC77-FFFE-4429-8DEF-8F9FA583D9C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F67573D-2745-4B68-9F9A-A4C2C5CE8965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F67573D-2745-4B68-9F9A-A4C2C5CE8965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F67573D-2745-4B68-9F9A-A4C2C5CE8965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F67573D-2745-4B68-9F9A-A4C2C5CE8965}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

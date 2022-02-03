@@ -125,7 +125,12 @@
       "ProjectGuid": "51a59dc8-8fae-4bc0-b76d-b635340a8fed",
       "DisplayName": "VirtualAndOverride",
       "ColorIndex": 7
+    },
+    "57ad9f11-8f75-4fc4-8b27-ac85eacdabc3": {
+      "ProjectGuid": "57ad9f11-8f75-4fc4-8b27-ac85eacdabc3",
+      "DisplayName": "GameProject",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }
